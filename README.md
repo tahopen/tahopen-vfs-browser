@@ -1,9 +1,9 @@
-# Apache VFS Browser #
+# Tahopen VFS Browser #
 
 How to build
 --------------
 
-Apache VFS Browser uses the maven framework. 
+Tahopen VFS Browser uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
